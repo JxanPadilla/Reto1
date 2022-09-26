@@ -1,0 +1,68 @@
+body{
+  background:  #004173;
+
+}
+
+#Tconfirm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    font-size: 50px;
+    font-family: Georgia;
+    color: rgb(142, 255, 246);
+  }
+  
+  #TextCon{
+    display: flex;
+    margin-left: 40%;
+    margin-top: 1%;
+    font-size: 20px;
+    font-family: Georgia;
+    color: #7cdaf9
+  }
+  
+  #Operacion{
+    display: flex;
+    margin-left: 43.5%;
+    margin-top: 1%;
+    font-size: 25px;
+    font-family: Georgia;
+    color: #7cdaf9
+  }
+  
+  #Respuesta{
+    display: flex;
+    margin-left: 49%;
+    margin-top: -3.7%;
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    font-family: Georgia;
+    border-radius: 5px;
+    border-color: #004173;
+    color: rgb(0, 40, 70);
+    background: #7cdaf9;
+    box-shadow: 2px 2px 5px 1px #b6ffff;
+  }
+  
+  #Ver{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 48%;
+    margin-top: 3%;
+    height: 40px;
+    width: 100px;
+    border-color: #004173;
+    border-radius: 4px;
+    font-size: 20px;
+    font-family: Georgia;
+    color: rgb(142, 255, 246);
+    background: rgb(0, 40, 70);
+    box-shadow: 2px 2px 5px 1px aqua;
+  }
+
+  ::placeholder{
+    color: #004173;
+  }
