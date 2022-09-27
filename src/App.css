@@ -36,7 +36,7 @@
 
 #C{
   display: flex;
-  margin-left: 39.3%;
+  margin-left: 40.2%;
   margin-top: 3%;
   font-size: 27px;
   font-family: Georgia;
@@ -45,8 +45,8 @@
 
 #Usu{
   display: flex;
-  margin-left: 49%;
-  margin-top: -3.7%;
+  margin-left: 47.5%;
+  margin-top: -2.9%;
   height: 30px;
   width: 300px;
   font-size: 20px;
@@ -61,8 +61,8 @@
 
 #Contra{
   display: flex;
-  margin-left: 49%;
-  margin-top: -3.7%;
+  margin-left: 47.5%;
+  margin-top: -2.9%;
   height: 30px;
   width: 300px;
   font-size: 20px;
@@ -78,10 +78,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 48%;
+  margin-left: 45%;
   margin-top: 3%;
   height: 40px;
-  width: 100px;
+  width: 200px;
   border-color: #004173;
   border-radius: 4px;
   font-size: 20px;
